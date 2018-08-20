@@ -12,10 +12,9 @@ jupyter notebbok
 
 # Installing Jupyter notebook with pip
 If you have Python 3 installed:
-
 python3 -m pip install --upgrade pip
 python3 -m pip install jupyter
-If you have Python 2 installed:
 
+If you have Python 2 installed:
 python -m pip install --upgrade pip
 python -m pip install jupyter
