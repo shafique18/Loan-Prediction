@@ -16,9 +16,3 @@ If you have Python 3 installed:
 python -m pip install --upgrade pip
 
 python -m pip install jupyter notebook
-
-If you have Python 2 installed:
-
-python -m pip install --upgrade pip
-
-python -m pip install jupyter notebook
